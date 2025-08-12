@@ -1,16 +1,31 @@
-## Hello, That's me . . .
-
-<!--
-**MuhammadFarouk12/MuhammadFarouk12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello, It's Muhammad Farouk
+---
+> Muslim
+---
+> Loves CS 💻
+---
+> JavaScript & Bash 🤖
+---
+> I stand with Palestine 🇵🇸
+---
+> I use Linux and Vim BTW 🐧 ⌨️
+---
+#### Currently Learning
+> `sudo apt install node`
+> `Reading package lists... `
+---
+> `Design Patterns`
+---
+> `Architectural Design`
+---
+#### Currently Studying 
+---
+> Bachelor Degree on CS at IUTT 
+---
+> Virtual-Bachelor Degree on CS at OSSU 
+---
+#### Currently Working on 
+> Visit [my GitHub repos](https://github.com/MuhammadFarouk12?tab=repositories) and see the latest commits . . .  
+---
+> See You Next Push . . .
+---
