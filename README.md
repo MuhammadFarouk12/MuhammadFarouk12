@@ -11,12 +11,8 @@
 > I use Linux and Vim BTW 🐧 ⌨️
 ---
 #### Currently Learning
-> `sudo apt install node`
-> `Reading package lists... `
----
-> `Design Patterns`
----
-> `Architectural Design`
+> `Sequelize ORM`
+> `React Router`
 ---
 #### Currently Studying 
 ---
