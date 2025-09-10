@@ -11,8 +11,7 @@
 > I use Linux and Vim BTW 🐧 ⌨️
 ---
 #### Currently Learning
-> `Sequelize ORM`
-> `React Router`
+> `React UI & CSS Frameworks and Libraries`
 ---
 #### Currently Studying 
 ---
