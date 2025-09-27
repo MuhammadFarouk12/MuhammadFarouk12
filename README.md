@@ -17,7 +17,7 @@
 ---
 > Bachelor Degree on CS at IUTT 
 ---
-> Virtual-Bachelor Degree on CS at OSSU 
+> E-Bachelor Degree on CS at OSSU 
 ---
 #### Currently Working on 
 > Visit [my GitHub repos](https://github.com/MuhammadFarouk12?tab=repositories) and see the latest commits . . .  
