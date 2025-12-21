@@ -11,13 +11,13 @@
 > I use Linux and Vim BTW 🐧 ⌨️
 ---
 #### Currently Learning
-> `React UI & CSS Frameworks and Libraries`
+> `NestJS Framework`
 ---
 #### Currently Studying 
 ---
 > Bachelor Degree on CS at IUTT 
 ---
-> E-Bachelor Degree on CS at OSSU 
+> CS at OSSU 
 ---
 #### Currently Working on 
 > Visit [my GitHub repos](https://github.com/MuhammadFarouk12?tab=repositories) and see the latest commits . . .  
