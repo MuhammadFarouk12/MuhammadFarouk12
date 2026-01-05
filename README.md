@@ -8,7 +8,7 @@
 ---
 > I stand with Palestine 🇵🇸
 ---
-> I use Linux and Vim BTW 🐧 ⌨️
+> I use Arch BTW
 ---
 #### Currently Learning
 > `NestJS Framework`
